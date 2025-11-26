@@ -1,0 +1,20 @@
+torch
+torchvision
+torchaudio
+
+efficientnet_pytorch
+opencv-python
+Pillow
+
+pandas
+numpy
+scikit-learn
+
+matplotlib
+tqdm
+
+python-dotenv
+
+# Streamlit demo dependencies
+streamlit
+plotly
