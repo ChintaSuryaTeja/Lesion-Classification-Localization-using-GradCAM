@@ -29,10 +29,7 @@ ENV/
 .venv/
 .env/
 
-# PyTorch Models (large files)
-*.pth
-*.pt
-*.pkl
+# Large files (now handled by Git LFS)
 *.h5
 *.hdf5
 
